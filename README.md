@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sitiaminahramle99
+- 👋 Hi, I’m @sitiaminahramle99 , building my portfolio for career oppurtunity. 
 - 👀 I’m interested in exploring cybersecurity, developing website and software engineering.
 - 🌱 I’m currently learning javascript and wordpress.
 - 💞️ I’m looking to collaborate on developing website.
